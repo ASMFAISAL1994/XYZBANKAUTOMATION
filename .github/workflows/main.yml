@@ -33,7 +33,7 @@ jobs:
         subject: Automated Test Report
         body: |
           Hi,
-        attachments: ./build/reports/webFeature.html
+        attachments: ./build/reports/feature.html
         from: Github Actions
         to: rafiazwad@gmail.com
         content_type: text/html
